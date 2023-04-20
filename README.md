@@ -18,6 +18,18 @@ You can initiate the application in your CLI by navigating to the file and openi
 
 ---
 
+## Ganache Accounts Tab ##
+
+![An image for the header of the Repository](accounts-tab.png)
+
+---
+
+## Ganache Transaction Tab ##
+
+![An image for the header of the Repository](transaction-tab.png)
+
+---
+
 ## Contributors
 
 Adam Jimenez - FinTech Student
